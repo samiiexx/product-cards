@@ -62,14 +62,16 @@ $media-types-retina: (
     }
 }
 
-@mixin btn($border: 2px, $radius: 10px) {
+@mixin btn($border: 2px, $radius: 4px) {
     display: inline-block;
-    padding: 6px;
+    padding: 4px;
     cursor: pointer;
     outline: none;
     border-width: $border;
     border-style: solid;
     border-radius: $radius;
+    font-size: 12px;
+    font-weight: $font-bold;
     &:focus,
     &:hover {
         transition: all $normal;

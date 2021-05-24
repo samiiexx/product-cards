@@ -129,7 +129,7 @@ $spacers: (
 }
 
 .btn-secondary {
-    @include btn-solid($secondary, $white);
+    @include btn-solid($secondary, $dark);
 }
 
 .btn-secondary-outline {
