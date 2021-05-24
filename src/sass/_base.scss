@@ -21,7 +21,12 @@ a {
     }
 }
 
-.container-xtra {
+.h1 {
+    color: $dark;
+    text-align: center;
+}
+
+.container-extra {
     max-width: 1920px;
     @extend .container;
 }
