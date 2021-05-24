@@ -27,7 +27,7 @@ a {
 }
 
 .card {
-    background-color: $light;
+    background-color: #0e0e0e;
     border-radius: 40px;
     padding: 1rem;
     display: flex;
@@ -46,7 +46,7 @@ a {
 }
 
 .card-img {
-    background-color: #0e0e0e;
+    background-color: $white;
     background-image: url("../images/image.png");
     @include background;
     min-width: 8rem;
