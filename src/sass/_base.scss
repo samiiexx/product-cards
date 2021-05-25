@@ -1,5 +1,5 @@
 :root {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 body {
@@ -58,8 +58,8 @@ a {
 
 .img-content {
     background-color: $white;
-    min-width: 10rem;
-    height: 10rem;
+    min-width: 8rem;
+    height: 8rem;
     border-radius: 11px;
     @include flex(center);
 }
