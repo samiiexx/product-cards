@@ -84,12 +84,13 @@ a {
 }
 
 .card-footer {
-    @include flex;
+    display: block;
     padding-top: 0.5rem;
 }
 
 .price {
     font-weight: $font-bold;
+    padding-right: 0.5rem;
 }
 
 .fas {
