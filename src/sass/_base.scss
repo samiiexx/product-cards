@@ -1,5 +1,5 @@
 :root {
-    font-size: 14px;
+    font-size: 12px;
 }
 
 body {
@@ -69,7 +69,7 @@ a {
 }
 
 .card-group {
-    padding-left: 2rem;
+    padding-left: 1.5rem;
 }
 
 .card-content {
@@ -81,22 +81,20 @@ a {
 }
 
 .card-text {
-    font-size: 12px;
     color: rgba($color: $white, $alpha: 0.7);
 }
 
 .card-footer {
-    display: block;
     padding-top: 0.5rem;
 }
 
 .price {
     font-weight: $font-bold;
-    padding-right: 0.5rem;
+    margin-right: 1rem;
 }
 
 .fas {
-    transform: scale(0.5);
+    transform: scale(0.6);
     &:nth-child(5) {
         color: $grey;
     }
