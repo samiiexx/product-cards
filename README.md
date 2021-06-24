@@ -1,7 +1,7 @@
-# Website Title
-Include Description
+# Product Cards
+Using flexbox to design a product card.
 
-![Website Title](screenshot.jpg)
+![Product Cards](screenshot.jpg)
 
 ## Built With
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
@@ -14,7 +14,7 @@ Include Description
 
 ## Install
 ```
-    $ git clone git@github.com:repo/website-title.git main
+    $ git clone git@github.com:samiiexx/sam-product-cards.git main
     $ cd main
     $ npm install
     $ npm run build
@@ -53,9 +53,8 @@ gulp image
 
 ## Contributors
 - Favour Samuel (@samiiexx)
-- Osita Ugwueze (@OsitaNathan)
 
 ## License
-Copyright (c) 2021 StarBox Technologies Ltd.
+Copyright (c) 2021 Favour Samuel.
 
-For enquiries please contact us at [hello@starboxtech.com](mailto:hello@starboxtech.com).
+For enquiries please contact us at [favour@starboxtech.com](mailto:favour@starboxtech.com).
