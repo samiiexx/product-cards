@@ -14,7 +14,7 @@ Using flexbox to design a product card.
 
 ## Install
 ```
-    $ git clone git@github.com:samiiexx/sam-product-cards.git main
+    $ git clone git@github.com:samiiexx/product-cards.git main
     $ cd main
     $ npm install
     $ npm run build
